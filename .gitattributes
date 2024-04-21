@@ -1,3 +1,0 @@
-path/to/chicago_arrests.csv filter=lfs diff=lfs merge=lfs -text
-Projects/Technology/chicago_arrests.csv filter=lfs diff=lfs merge=lfs -text
-desktop/Projects/Technology/chicago_arrests.csv filter=lfs diff=lfs merge=lfs -text
