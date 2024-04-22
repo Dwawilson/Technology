@@ -40,6 +40,16 @@ According to an [article from The Guardian by Betsy Reed (2024)](https://www.the
 My code creates a new dataframe which contains firearm related arrests in Chicago from 2018 to 2022. The code plots a bar graph which shows the amount of firearm arrests by race; Black people make up a large majority of firearm arrests in Chicago. The code also plots a line graph which shows the amount of firearm related charges minorities have received each year; There has been a massive increase in arrests in 2020, but has been on a sharp decline since 2020 and, The Guardian article corroborates this: "Violent crime, including homicides and shootings, has largely fallen across the country to about the same level as before the pandemic, though property crimes have risen in some places. In Chicago, the downward trend of violent crime has continued at the start of 2024 with a 30% drop in homicides. There were 39 through last week compared with 56 during the same period last year." (Reed, 2024, Para. 11)
 
 My analysis is that it is hard to determine if ShotSpotter Gun Detection had a significant impact on the arrests of minorities based on the data. Other factors such as Chicago being a predominantly black city, racial bias amoungst law enforcement themselves, or unprecidented circumstances causing an increase in crime may explain the results. Despite ShotSpotter being discontinued in Chicago, I think a more accurate and reliable AI gunshot detector may exist in the future.
+
+Sources:
+[20 Law Enforcement Software & Police Technology for 2024](https://10-8systems.com/20-latest-law-enforcement-software-and-police-technologies/)
+[Mayor Lightfoot, CPD Launch Two New Area Technology Centers to Solve Crimes Faster and Improve Clearance Rate](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/august/AreaTechnologyCenters.html)
+[Public Safety Technology in Chicago | CDS Office Technologies](https://www.cdsofficetech.com/public-safety-technology-in-chicago/)
+[Chicago is the latest city rethinking disputed technology that listens for gunshots • Stateline](https://stateline.org/2024/02/27/chicago-is-the-latest-city-rethinking-disputed-technology-that-listens-for-gunshots/)
+[Mobilizing First Responders with Computer-Aided Dispatch (CAD) & RMS](https://10-8systems.com/first-responders-with-CAD-and-RMS/)
+[Spillman Flex™ Public Safety Software   - Motorola Solutions](https://www.motorolasolutions.com/en_us/products/command-center-software/public-safety-software/flex.html)
+[Mobile CAD: Keeping Modern Officers Connected and Safe](https://insights.samsung.com/2018/12/11/mobile-cad-keeping-modern-officers-connected-and-safe/)
+
 # Section 4: Law Enforcement's use of AI to Arrest Perpertraitors of Crimes Related to Sexual Abuse
 Code:
 
