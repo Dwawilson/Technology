@@ -37,11 +37,17 @@ Chicago's traffic enforcement focuses on driving violations, notably 'DRIVING ON
 
 Sources:
 [20 Law Enforcement Software & Police Technology for 2024](https://10-8systems.com/20-latest-law-enforcement-software-and-police-technologies/)
+
 [Mayor Lightfoot, CPD Launch Two New Area Technology Centers to Solve Crimes Faster and Improve Clearance Rate](https://www.chicago.gov/city/en/depts/mayor/press_room/press_releases/2019/august/AreaTechnologyCenters.html)
+
 [Public Safety Technology in Chicago | CDS Office Technologies](https://www.cdsofficetech.com/public-safety-technology-in-chicago/)
+
 [Chicago is the latest city rethinking disputed technology that listens for gunshots • Stateline](https://stateline.org/2024/02/27/chicago-is-the-latest-city-rethinking-disputed-technology-that-listens-for-gunshots/)
+
 [Mobilizing First Responders with Computer-Aided Dispatch (CAD) & RMS](https://10-8systems.com/first-responders-with-CAD-and-RMS/)
+
 [Spillman Flex™ Public Safety Software   - Motorola Solutions](https://www.motorolasolutions.com/en_us/products/command-center-software/public-safety-software/flex.html)
+
 [Mobile CAD: Keeping Modern Officers Connected and Safe](https://insights.samsung.com/2018/12/11/mobile-cad-keeping-modern-officers-connected-and-safe/)
 
 # Section 3: ShotSpotter Gun Detection
